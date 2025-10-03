@@ -1,0 +1,70 @@
+"
+    {
+      "firstName": "Иван",
+      "middleName": "Иванович",
+      "lastName": "Иванов",
+      "birthDate": "2004-12-31T21:00:00.000Z",
+      "citizenship": "РФ",
+      "passport": {
+        "series": "12 34",
+        "number": "123456",
+        "issuedAt": "2018-03-11T21:00:00.000Z",
+        "issuer": "УФМС",
+        "issuerСode": "123-456"
+      },
+      "creditHistory": [
+        {
+          "type": "Кредит наличными",
+          "currency": "RUB",
+          "issuedAt": "2003-02-27T21:00:00.000Z",
+          "rate": 0.13,
+          "loanSum": 100000,
+          "term": 12,
+          "repaidAt": "2004-02-27T21:00:00.000Z",
+          "currentOverdueDebt": 0,
+          "numberOfDaysOnOverdue": 0,
+          "remainingDebt": 0,
+          "creditId": "25e8a350-fbbc-11ee-a951-0242ac120002"
+        },
+        {
+          "type": "Кредитная карта",
+          "currency": "RUB",
+          "issuedAt": "2009-03-27T21:00:00.000Z",
+          "rate": 0.24,
+          "loanSum": 30000,
+          "term": 3,
+          "repaidAt": "2009-06-29T20:00:00.000Z",
+          "currentOverdueDebt": 0,
+          "numberOfDaysOnOverdue": 2,
+          "remainingDebt": 0,
+          "creditId": "81fb1ff6-fbbc-11ee-a951-0242ac120002"
+        },
+        {
+          "type": "Кредит наличными",
+          "currency": "RUB",
+          "issuedAt": "2009-02-27T21:00:00.000Z",
+          "rate": 0.09,
+          "loanSum": 200000,
+          "term": 24,
+          "repaidAt": "2011-03-02T21:00:00.000Z",
+          "currentOverdueDebt": 0,
+          "numberOfDaysOnOverdue": 3,
+          "remainingDebt": 0,
+          "creditId": "c384eea2-fbbc-11ee-a951-0242ac120002"
+        },
+        {
+          "type": "Кредитная наличными",
+          "currency": "RUB",
+          "issuedAt": "2024-05-15T21:00:00.000Z",
+          "rate": 0.13,
+          "loanSum": 200000,
+          "term": 36, 
+          "repaidAt": null,
+          "currentOverdueDebt": 1,
+          "numberOfDaysOnOverdue": 15,
+          "remainingDebt": 110000,
+          "creditId": "ebeddfde-fbbc-11ee-a951-0242ac120002"
+        }
+      ]
+    }
+    "
